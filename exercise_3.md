@@ -129,7 +129,7 @@ One major source of greenhouse gases is burning fossil fuels such as coal, oil, 
 Climate change is a global problem, but it can be addressed. Solutions include using renewable energy (like solar and wind), planting trees, reducing waste, and changing transportation habits, such as using public transport or biking. Every small action counts. Understanding climate change helps young people make informed choices and prepare for a future where both humans and nature can thrive. Learning and acting now can help slow down its harmful effects.
 
 ---
-My observation in clarity and usefulness of the outputs: So, I noticed that in the first prompt, the model gave me an outlined explanation of climate change  where it used bullet points to talk about the causes, effects, and mitigation in bullet points. But., at the same time, it used more sophisticated words.
+**My observation in clarity and usefulness of the outputs:** So, I noticed that in the first prompt, the model gave me an outlined explanation of climate change  where it used bullet points to talk about the causes, effects, and mitigation in bullet points. But., at the same time, it used more sophisticated words.
 
 While in the second instructional prompt, even though I gave it a 200-word limit, it gave a more explanatory output, one with simple words and very easy to understand by high school leaners.
 
