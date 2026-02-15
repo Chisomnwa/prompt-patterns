@@ -54,7 +54,7 @@ Write and execute a Hello, World! program.
 
 - Write a weak prompt: "Summarize this text."
 
--** Refine it into a reusable pattern:
+- Refine it into a reusable pattern:
 
 "Summarize the following text in 3 bullet points, focusing on the main arguments and ignoring examples."
 
